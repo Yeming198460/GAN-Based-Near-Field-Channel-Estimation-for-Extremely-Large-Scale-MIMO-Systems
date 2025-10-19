@@ -6,9 +6,10 @@ Channel data generation:  Use the script data_generate12.m from the archive tex8
 
 
 
-Channel estimation: Use main_cGAN83.py to train and test the proposed method based on the GAN variant.
+Channel estimation: Use the script main_cGAN83.py from the archive tex83_CGAN_IE.zip to train and test the proposed method based on the GAN variant.
 
 [main_cGAN83.py](https://github.com/user-attachments/files/22990320/main_cGAN83.py)
-[GAN.zip](https://github.com/user-attachments/files/22990335/GAN.zip)
-[generated_img.zip](https://github.com/user-attachments/files/22990336/generated_img.zip)
+
+
 [tex8_mat.zip](https://github.com/user-attachments/files/22990472/tex8_mat.zip)
+[tex83_CGAN_IE.zip](https://github.com/user-attachments/files/22990475/tex83_CGAN_IE.zip)
