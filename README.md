@@ -28,3 +28,11 @@ Channel estimation: Use the script main_cGAN83.py from the archive tex83_CGAN_IE
 [tex8_mat.zip](https://github.com/user-attachments/files/22990472/tex8_mat.zip)
 
 [tex83_CGAN_IE.zip](https://github.com/user-attachments/files/22990475/tex83_CGAN_IE.zip)
+
+
+*********************************************************************************************************************************
+It is noted that there may be some differences in the results of different training processes. 
+
+Enjoy the reproducible research!
+
+
